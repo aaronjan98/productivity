@@ -1,10 +1,10 @@
 import React from 'react'
 import { View, Text, StyleSheet, TouchableWithoutFeedback } from 'react-native'
 
-const Header = () => {
+const Header = ({ title }) => {
   return (
     <View style={styles.header}>
-      <Text style={styles.text}>Productivity</Text>
+      <Text style={styles.text}>{title}</Text>
     </View>
   )
 }

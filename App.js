@@ -6,7 +6,7 @@ import Header from './components/Header.js'
 const App = () => {
   return (
     <View style={styles.container}>
-      <Header />
+      <Header title='Productivity React-Native'/>
     </View>
   )
 }
