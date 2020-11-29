@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286767890792",
+    "firebase_url": "https://productivity-jan.firebaseio.com",
+    "project_id": "productivity-jan",
+    "storage_bucket": "productivity-jan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286767890792:android:33a05fb64cde659e8896dd",
+        "android_client_info": {
+          "package_name": "com.productivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286767890792-8cnbtv4e49ttb0o1pgs3jicft94idi89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.productivity",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "286767890792-bog37k038ho8lr39k0kdicjufhluluso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJx9_I31kBRajCIXWDYLlLds0I27UoRAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286767890792-bog37k038ho8lr39k0kdicjufhluluso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
